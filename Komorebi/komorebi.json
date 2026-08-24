@@ -6,7 +6,7 @@
 
   "transparency": false,
   "transparency_alpha": 250,
-  "default_workspace_padding": 18,
+  "default_workspace_padding": 17,
   "default_container_padding": 8,
   "border": false,
   "border_style":"Rounded",
