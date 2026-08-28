@@ -88,7 +88,7 @@ body {
     --colors: on; /* off: discord default colors, on: midnight custom colors */
 
     /* text colors */
-    --text-0: #DCD7BA; /* text on colored elements (accentText) */
+    --text-0: #1F1F28; /* text on colored elements (accentText) */
     --text-1: #DCD7BA; /* other normally white text */
     --text-2: #DCD7BA; /* headings and important text */
     --text-3: #DCD7BA; /* normal text */
